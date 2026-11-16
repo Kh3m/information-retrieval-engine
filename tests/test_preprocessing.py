@@ -1,4 +1,4 @@
-from retrieval_engine.processing import tokenize_text
+from retrieval_engine.preprocessing import tokenize_text
 
 
 def test_tokenize_lowercase():
